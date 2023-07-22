@@ -1,0 +1,32 @@
+[
+    {
+        "name": "mohammed",
+        "email": "m@m.co",
+        "password": "$2y$10$bsuD7BhIRmYtC1UYJi4Eaetv9jtaOf4S2Bgt\/JCPXhTR4ukhAkTgK",
+        "image": "img\/16897861711918.jpeg"
+    },
+    {
+        "name": "aliii",
+        "email": "ali@a.a",
+        "password": "$2y$10$Eu2I3NlZ7F.SkbVHKJDQ8eooxa4MZIETA4YoR4y5cbmf6n1CuxoZC",
+        "image": "img\/16897862229565.jpeg"
+    },
+    {
+        "name": "aliii",
+        "email": "ali@a.a",
+        "password": "$2y$10$Jc42SRsQucz9tWs.0fEPwe1qjrMcky3W7KUwwW4uYLqUX2AhCkiZS",
+        "image": "img\/16897862484527.jpeg"
+    },
+    {
+        "name": "aliii",
+        "email": "ali@a.a",
+        "password": "$2y$10$cl6lDsTX49Po1LbzglJivOe2MBt\/ygRafi0i7mxglf4vLe.B4dN4y",
+        "image": "img\/16897864534964.jpeg"
+    },
+    {
+        "name": "Youssef",
+        "email": "yo@yo.yo",
+        "password": "$2y$10$eIxwyGyF7vZpQ.N1SF92zO08c4tmy5Gb6lCG2nefbB22BN9ZqJamm",
+        "image": "img\/16897884811780.jpeg"
+    }
+]
